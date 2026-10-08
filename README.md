@@ -24,52 +24,59 @@ France · BUT MMI, IUT de Béziers
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,cs,nodejs,threejs,unity,blender,mysql,discord,git,vscode&perline=8" alt="stack" />
 </p>
 
-### Projets sélectionnés
+### Projets phares
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### [csharp-escape-game](https://github.com/dyzlek/csharp-escape-game)
-Jeu d'évasion pour apprendre le C# : 50 niveaux, un interpréteur C# écrit from scratch, QCM et épreuves de synthèse. Des bases jusqu'aux principes SOLID.
+#### [KC Catalogue](https://github.com/dyzlek/KCC)
+Plateforme de gestion de collection de jeux vidéo avec dimension sociale : suivi d'amis, découverte de titres via l'API IGDB, connexion Steam.
+
+`Node.js` `Express` `MySQL` `Nunjucks` `Passport.js` `IGDB API`
 
 </td>
 <td width="50%" valign="top">
 
-#### [r507-blockchain-3d](https://github.com/dyzlek/r507-blockchain-3d)
-Visualisation pédagogique en 3D du fonctionnement d'une blockchain, réalisée avec Three.js.
+#### Mobilift — site e-commerce
+Site marchand complet en PHP sans framework : catalogue, panier à variantes, paiement Stripe et PayPal, comptes clients, e-mails transactionnels, sécurité (CSRF, sessions) et SEO (JSON-LD, sitemap).
+
+`PHP` `MySQL` `Stripe` `PayPal` `SEO`
 
 </td>
 </tr>
 <tr>
 <td valign="top">
 
-#### [projett-vr](https://github.com/dyzlek/projett-vr)
-Projet Unity pour Meta Quest : interactions VR et tower defense multijoueur.
+#### [csharp-escape-game](https://github.com/dyzlek/csharp-escape-game)
+Jeu d'évasion pour apprendre le C# : 50 niveaux, interpréteur C# écrit from scratch, QCM et épreuves de synthèse, des bases jusqu'aux principes SOLID.
+
+`JavaScript` `Interpréteur` `Pédagogie`
 
 </td>
 <td valign="top">
 
-#### [mmi-discord-bot](https://github.com/dyzlek/mmi-discord-bot)
-Bot Discord pour les étudiants MMI de Béziers : emploi du temps en image et notes en temps réel.
+#### [SAE501 — Jeu VR](https://github.com/dyzlek/SAE501)
+Jeu en réalité virtuelle sous Unity réalisé en équipe. Rôle : hub, plateau et carte, intégration des prototypes, gestion du dépôt Git.
 
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-#### [devtober](https://github.com/dyzlek/devtober)
-Défi créatif : un mot par jour en octobre, une réalisation en code.
-
-</td>
-<td valign="top">
-
-#### [CrumbPilot](https://github.com/dyzlek/CrumbPilot)
-Mod pour Cookie Clicker (Steam) : scripts d'automatisation et de clics.
+`Unity` `C#` `VR Meta Quest` `Travail d'équipe`
 
 </td>
 </tr>
 </table>
+
+### Autres projets
+
+| Projet | Description | Stack |
+|---|---|---|
+| [r507-blockchain-3d](https://github.com/dyzlek/r507-blockchain-3d) | Visualisation pédagogique 3D d'une blockchain | Three.js |
+| [mmi-discord-bot](https://github.com/dyzlek/mmi-discord-bot) | Bot Discord : emploi du temps en image, notes en temps réel | Node.js |
+| Easy Mobility | Refonte du site et stratégie SEO pour un distributeur (projet pro) | WordPress, PHP |
+| [devtober](https://github.com/dyzlek/devtober) | Une création en code par jour en octobre 2026 | JavaScript |
+| [Spoti-Stats](https://github.com/dyzlek/Spoti-Stats) | Statistiques d'écoute à partir d'un export Spotify | JavaScript |
+| [CrumbPilot](https://github.com/dyzlek/CrumbPilot) | Mod d'automatisation pour Cookie Clicker (Steam) | JavaScript |
+
+<p align="center"><a href="https://dyzlek.github.io/portfolio/"><b>Voir le portfolio complet</b></a></p>
 
 ### Statistiques
 
