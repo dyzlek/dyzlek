@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1db954,100:5865f2&height=180&section=header&text=Moxolote&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Étudiant%20BUT%20MMI%20·%20Développement%20web%20%26%20jeux&descAlignY=60&descSize=16" alt="header" />
+<img src="banner.svg" width="100%" alt="Moxolote" />
 
 <a href="https://github.com/dyzlek">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=1DB954&center=true&vCenter=true&width=520&lines=D%C3%A9veloppement+web+front+%26+back;Jeux+vid%C3%A9o+%E2%80%A2+Unity+%E2%80%A2+VR;Visualisation+3D+avec+Three.js" alt="typing" />
@@ -82,4 +82,3 @@ Mod pour Cookie Clicker (Steam) : scripts d'automatisation et de clics.
   <img src="https://streak-stats.demolab.com?user=dyzlek&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5865f2,100:1db954&height=100&section=footer" width="100%" alt="footer" />

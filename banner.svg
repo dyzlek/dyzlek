@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1db954"/><stop offset="1" stop-color="#5865f2"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 0H1200V150C1000 200 800 120 600 150S200 200 0 150Z" fill="url(#g)"/>
+  <text x="600" y="85" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="56" font-weight="700" fill="#fff">Moxolote</text>
+  <text x="600" y="125" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="20" fill="#fff" opacity=".9">Étudiant BUT MMI · Développement web &amp; jeux</text>
+</svg>
