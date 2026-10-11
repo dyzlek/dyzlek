@@ -3,7 +3,7 @@
 <img src="banner.svg" width="100%" alt="Moxolote" />
 
 <a href="https://github.com/dyzlek">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=1DB954&center=true&vCenter=true&width=520&lines=D%C3%A9veloppement+web+front+%26+back;Jeux+vid%C3%A9o+%E2%80%A2+Unity+%E2%80%A2+VR;Visualisation+3D+avec+Three.js" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=1DB954&center=true&vCenter=true&width=520&lines=D%C3%A9veloppement+web+front+%26+back;Temps+r%C3%A9el+%E2%80%A2+Socket.IO+%E2%80%A2+Redis;Jeux+vid%C3%A9o+%E2%80%A2+Unity+%E2%80%A2+VR;Visualisation+3D+avec+Three.js" alt="typing" />
 </a>
 
 France · BUT MMI, IUT de Béziers
@@ -15,13 +15,15 @@ France · BUT MMI, IUT de Béziers
 ### À propos
 
 - Développement **web** (front-end et back-end) et **jeu vidéo** (Unity, VR Meta Quest)
+- Applications **temps réel** (WebSocket, synchronisation audio) en TypeScript
+- Plugins et modules e-commerce : WordPress, PrestaShop
 - Automatisation et outillage : bots Discord, scripts, extensions
 - En cours : **[Devtober 2026](https://github.com/dyzlek/devtober)**, une création en code par jour en octobre
 
 ### Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,cs,nodejs,threejs,unity,blender,mysql,discord,git,vscode&perline=8" alt="stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,svelte,nodejs,php,python,cs,threejs,postgres,mysql,sqlite,redis,docker,githubactions,wordpress,unity,blender,git&perline=10" alt="stack" />
 </p>
 
 ### Projets phares
@@ -30,18 +32,36 @@ France · BUT MMI, IUT de Béziers
 <tr>
 <td width="50%" valign="top">
 
-#### [KC Catalogue](https://github.com/dyzlek/KCC)
-Plateforme de gestion de collection de jeux vidéo avec dimension sociale : suivi d'amis, découverte de titres via l'API IGDB, connexion Steam.
+#### [Refrain](https://github.com/dyzlek/refrain)
+Blind test multijoueur en temps réel : la musique démarre au même instant sur tous les écrans (horloge synchronisée, Web Audio), buzzer arbitré selon le ping, salons qui survivent à un redémarrage du serveur.
 
-`Node.js` `Express` `MySQL` `Nunjucks` `Passport.js` `IGDB API`
+`TypeScript` `Svelte 5` `Socket.IO` `Redis` `PostgreSQL` `Docker`
 
 </td>
 <td width="50%" valign="top">
 
-#### Mobilift — site e-commerce
-Site marchand complet en PHP sans framework : catalogue, panier à variantes, paiement Stripe et PayPal, comptes clients, e-mails transactionnels, sécurité (CSRF, sessions) et SEO (JSON-LD, sitemap).
+#### [Sillon](https://github.com/dyzlek/sillon)
+Lecteur de musique perso : serveur de streaming maison, écran minimaliste et visualiseur 3D de 8 400 particules qui réagit au son.
 
-`PHP` `MySQL` `Stripe` `PayPal` `SEO`
+`Node.js` `SQLite` `Three.js` `Web Audio`
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+#### [Photoprint Assistant](https://github.com/dyzlek/photoprint_assistant)
+Module PrestaShop 8/9 pour les boutiques de tirages photo : upload, contrôle qualité en DPI, recadrage, prix par format, branché sur le panier natif.
+
+`PHP 8` `PrestaShop` `JavaScript` `CI`
+
+</td>
+<td valign="top">
+
+#### [Image SEO Pro](https://github.com/dyzlek/image-seo-pro)
+Plugin WordPress : copies WebP et AVIF sans toucher aux originaux, textes alternatifs écrits par une IA de vision (Ollama ou API OpenAI).
+
+`PHP` `WordPress` `IA` `WP-CLI`
 
 </td>
 </tr>
@@ -57,9 +77,9 @@ Jeu d'évasion pour apprendre le C# : 50 niveaux, interpréteur C# écrit from s
 <td valign="top">
 
 #### [SAE501 — Jeu VR](https://github.com/dyzlek/SAE501)
-Jeu en réalité virtuelle sous Unity réalisé en équipe. Rôle : hub, plateau et carte, intégration des prototypes, gestion du dépôt Git.
+Tower defense en réalité virtuelle sous Unity, en équipe. Rôle : hub, plateau et carte, intégration des prototypes, gestion du dépôt Git.
 
-`Unity` `C#` `VR Meta Quest` `Travail d'équipe`
+`Unity` `C#` `VR Meta Quest` `Blender`
 
 </td>
 </tr>
@@ -69,6 +89,8 @@ Jeu en réalité virtuelle sous Unity réalisé en équipe. Rôle : hub, plateau
 
 | Projet | Description | Stack |
 |---|---|---|
+| [KC Catalogue](https://github.com/dyzlek/KCC) | Collection de jeux vidéo, reviews et profils sociaux via l'API IGDB, connexion Steam | Node.js, Express, MySQL |
+| Mobilift | Site e-commerce sans framework : panier, Stripe et PayPal, comptes, SEO (projet pro) | PHP, MySQL |
 | [r507-blockchain-3d](https://github.com/dyzlek/r507-blockchain-3d) | Visualisation pédagogique 3D d'une blockchain | Three.js |
 | [mmi-discord-bot](https://github.com/dyzlek/mmi-discord-bot) | Bot Discord : emploi du temps en image, notes en temps réel | Node.js |
 | Easy Mobility | Refonte du site et stratégie SEO pour un distributeur (projet pro) | WordPress, PHP |
