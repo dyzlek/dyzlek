@@ -90,10 +90,8 @@ Tower defense en réalité virtuelle sous Unity, en équipe. Rôle : hub, platea
 | Projet | Description | Stack |
 |---|---|---|
 | [KC Catalogue](https://github.com/dyzlek/KCC) | Collection de jeux vidéo, reviews et profils sociaux via l'API IGDB, connexion Steam | Node.js, Express, MySQL |
-| Mobilift | Site e-commerce sans framework : panier, Stripe et PayPal, comptes, SEO (projet pro) | PHP, MySQL |
 | [r507-blockchain-3d](https://github.com/dyzlek/r507-blockchain-3d) | Visualisation pédagogique 3D d'une blockchain | Three.js |
 | [mmi-discord-bot](https://github.com/dyzlek/mmi-discord-bot) | Bot Discord : emploi du temps en image, notes en temps réel | Node.js |
-| Easy Mobility | Refonte du site et stratégie SEO pour un distributeur (projet pro) | WordPress, PHP |
 | [devtober](https://github.com/dyzlek/devtober) | Une création en code par jour en octobre 2026 | JavaScript |
 | [Spoti-Stats](https://github.com/dyzlek/Spoti-Stats) | Statistiques d'écoute à partir d'un export Spotify | JavaScript |
 | [CrumbPilot](https://github.com/dyzlek/CrumbPilot) | Mod d'automatisation pour Cookie Clicker (Steam) | JavaScript |
