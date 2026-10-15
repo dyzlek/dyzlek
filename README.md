@@ -25,14 +25,14 @@ France · BUT MMI, IUT de Béziers
 
 | Catégorie | Outils |
 |---|---|
-| **Langages** | <img src="https://skillicons.dev/icons?i=ts,js,html,css,php,python,cs&theme=dark" alt="" /> |
-| **Front-end** | <img src="https://skillicons.dev/icons?i=svelte,threejs&theme=dark" alt="" /> |
-| **Back-end** | <img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark" alt="" /> |
-| **Bases de données** | <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis&theme=dark" alt="" /> |
-| **CMS et e-commerce** | <img src="https://skillicons.dev/icons?i=wordpress&theme=dark" alt="" /> <img src="https://img.shields.io/badge/PrestaShop-DF0067?style=for-the-badge&logo=prestashop&logoColor=white" alt="PrestaShop" /> |
-| **Jeu vidéo et 3D** | <img src="https://skillicons.dev/icons?i=unity,blender&theme=dark" alt="" /> |
-| **Design** | <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="" /> |
-| **DevOps et outils** | <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vscode&theme=dark" alt="" /> |
+| **Langages** | <img src="https://skillicons.dev/icons?i=ts,js,html,css,php,python,cs&theme=dark" alt="" /><br><sub>TypeScript · JavaScript · HTML · CSS · PHP · Python · C#</sub> |
+| **Front-end** | <img src="https://skillicons.dev/icons?i=svelte,threejs&theme=dark" alt="" /><br><sub>Svelte · Three.js</sub> |
+| **Back-end** | <img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark" alt="" /><br><sub>Node.js · Express · Flask</sub> |
+| **Bases de données** | <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis&theme=dark" alt="" /><br><sub>PostgreSQL · MySQL · SQLite · Redis</sub> |
+| **CMS et e-commerce** | <img src="https://skillicons.dev/icons?i=wordpress&theme=dark" alt="" /> <sub>WordPress</sub> <img src="https://img.shields.io/badge/PrestaShop-DF0067?style=for-the-badge&logo=prestashop&logoColor=white" alt="PrestaShop" /> |
+| **Jeu vidéo et 3D** | <img src="https://skillicons.dev/icons?i=unity,blender&theme=dark" alt="" /><br><sub>Unity · Blender</sub> |
+| **Design** | <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="" /><br><sub>Figma</sub> |
+| **DevOps et outils** | <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vscode&theme=dark" alt="" /><br><sub>Git · GitHub · GitHub Actions · Docker · VS Code</sub> |
 
 ### Projets phares
 
